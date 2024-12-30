@@ -1,5 +1,5 @@
 [build]
-command = "composer install && php artisan build"
+command = "composer install"
 publish = "public"
 
 [build.environment]
